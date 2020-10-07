@@ -1,8 +1,6 @@
 version: 0.0
 os: linux
 files:
-  - source: /demo.php
-    destination: /var/www/html/
   - source: /index.html
     destination: /var/www/html/
 hooks:
